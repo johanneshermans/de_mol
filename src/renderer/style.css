@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 150%;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 40%;
+}
+.geld {
+    font-size: 13em;
+    font-weight: 600;
+}
+.tijd {
+    font-size: 5em;
+}
+.rick {
+    display: none;
+}
